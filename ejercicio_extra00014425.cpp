@@ -5,6 +5,7 @@ int main(){
  //declaracion de variables
  string nombre;
  int carnet = 7;
+ int notas = 10; 
 
 cout<< "Porfavor ingrese su nombre\n";
 cin >> nombre;
@@ -14,6 +15,8 @@ cin >> carnet;
 
  cout<< "Elige una de las de siguentes opciones\n";
  cout<<"a.Agregar notas\n b.consultar todas las notas\n c.calcular todas las notas \n d.salir\n";
+
+
  
 
 
