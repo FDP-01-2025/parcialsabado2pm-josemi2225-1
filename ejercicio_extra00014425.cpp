@@ -9,7 +9,7 @@ int main(){
 cout<< "Porfavor ingrese su nombre\n";
 cin >> nombre;
 
-cout << "Porfavor ingrese su numero de carnet\n";
+cout <<endl << "Porfavor ingrese su numero de carnet\n";
 cin >> carnet;
 
  cout<< "Elige una de las de siguentes opciones\n";
